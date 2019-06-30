@@ -1,0 +1,7 @@
+title: §d§lM§f§lan§2§l10§e§lAuctionHouse
+mysql:
+  host: localhost
+  user: root
+  pass: pass
+  port: 3306
+  db: man10auction

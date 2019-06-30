@@ -1,0 +1,8 @@
+name: Man10Auction
+version: @version@
+main: red.man10.man10auction.Man10Auction
+commands:
+  mah:
+    description: Man10Auction
+    usage: /<command>
+    default: op
